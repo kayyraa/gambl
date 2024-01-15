@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "ConsolasR";
+    src: url("../../fonts/consolas.TTF");
+    --letter-spacing: 25px;
+}
